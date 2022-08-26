@@ -1,0 +1,46 @@
+.product {
+  width: 330px;
+  height: 400px;
+  text-align: center;
+  padding: 20px;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 40px;
+  &__image {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+  }
+  &__name {
+    font-weight: 500;
+    font-size: 20px;
+    color: #000;
+    margin-top: 10px;
+  }
+  &__price {
+    font-weight: bold;
+    font-size: 16px;
+    color: #000;
+    margin-top: 10px;
+  }
+  &__button {
+    background: none;
+    outline: none;
+    font-size: 16px;
+    font-weight: 500;
+    width: 140px;
+    height: 45px;
+    text-transform: capitalize;
+    cursor: pointer;
+    margin-top: 25px;
+    border-radius: 8px;
+    color: #313131;
+    border: 3px solid #313131;
+    transition: 0.5s background, 0.5s color;
+
+    &_selected {
+      background: #313131;
+      color: #fff;
+    }
+  }
+}

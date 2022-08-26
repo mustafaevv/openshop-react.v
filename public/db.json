@@ -1,0 +1,167 @@
+{
+  "discount_item-one": [
+    {
+      "id": 0,
+      "name": "Apple Watch Series 7",
+      "image": "https://openshop.ua/image/cachewebp/products/5/6/6/70665-0-500x500.webp",
+      "price": 320,
+      "discount": "-57%",
+      "size": "45 mm",
+      "color": "Silver"
+    }
+  ],
+  "discount_item-two": [
+    {
+      "id": 3,
+      "name": "Apple Watch Series 7",
+      "image": "https://openshop.ua/image/cachewebp/products/6/6/6/70666-0-500x500.webp",
+      "price": 200,
+      "discount": "-30%",
+      "size": "41 mm",
+      "color": "green"
+    }
+  ],
+  "discount": [
+    {
+      "id": 1,
+      "name": "Microsoft Surface Pro 8",
+      "image": "https://openshop.ua/image/cachewebp/products/0/9/1/71190-0-500x500.webp",
+      "price": 800,
+      "discount": "-20%",
+      "memory": 256,
+      "ram": 16,
+      "cpu": "i-7 intel"
+    },
+    {
+      "id": 2,
+      "name": "iPhone 13",
+      "image": "https://openshop.ua/image/cachewebp/products/8/8/7/60788-0-500x500.webp",
+      "price": 900,
+      "discount": "-10%",
+      "memory": 512,
+      "ram": 6
+    }
+  ],
+  "smartWatch": [
+    {
+      "id": 0,
+      "name": "Apple Watch Series 7",
+      "image": "https://openshop.ua/image/cachewebp/products/6/6/6/70666-0-500x500.webp",
+      "price": 200,
+      "size": "41 mm",
+      "color": "green"
+    },
+    {
+      "id": 1,
+      "name": "Apple Watch Series 7",
+      "image": "https://openshop.ua/image/cachewebp/products/5/6/6/70665-0-500x500.webp",
+      "price": 320,
+      "size": "45 mm",
+      "color": "Silver "
+    },
+    {
+      "id": 2,
+      "name": "Huawei Watch GT 2 Pro",
+      "image": "https://openshop.ua/image/cachewebp/products/0/6/6/49660-0-500x500.webp",
+      "price": 500,
+      "size": "45 mm",
+      "color": "Night Black "
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy Watch 3",
+      "image": "https://openshop.ua/image/cachewebp/products/1/6/6/49661-0-500x500.webp",
+      "price": 620,
+      "size": "47 mm",
+      "color": " Bronze "
+    }
+  ],
+  "computers": [
+    {
+      "id": 0,
+      "name": "Ноутбук HP 14",
+      "image": "https://openshop.ua/image/cachewebp/products/5/8/9/70985-0-500x500.webp",
+      "price": 500,
+      "memory": 512,
+      "ram": 4,
+      "cpu": "i-5 intel"
+    },
+    {
+      "id": 1,
+      "name": "Ноутбук HP 15",
+      "image": "https://openshop.ua/image/cachewebp/products/7/9/4/53497-0-500x500.webp",
+      "price": 650,
+      "memory": 256,
+      "ram": 8,
+      "cpu": "Ryzen 3"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft Surface Pro 8",
+      "image": "https://openshop.ua/image/cachewebp/products/0/9/1/71190-0-500x500.webp",
+      "price": 800,
+      "memory": 256,
+      "ram": 16,
+      "cpu": "i-7 intel"
+    },
+    {
+      "id": 3,
+      "name": "Apple MacBook Air 13,6",
+      "image": "https://openshop.ua/image/cachewebp/products/6/1/2/70216-0-500x500.webp",
+      "price": 1200,
+      "memory": 512,
+      "ram": 8,
+      "cpu": "M2"
+    }
+  ],
+  "iPhones": [
+    {
+      "id": 0,
+      "name": "iPhone 11",
+      "image": "https://openshop.ua/image/cachewebp/products/3/0/7/41703-0-500x500.webp",
+      "price": 600,
+      "memory": 128,
+      "ram": 4
+    },
+    {
+      "id": 1,
+      "name": "iPhone 13",
+      "image": "https://openshop.ua/image/cachewebp/products/8/8/7/60788-0-500x500.webp",
+      "price": 900,
+      "memory": 512,
+      "ram": 6
+    },
+    {
+      "id": 2,
+      "name": "iPhone 12",
+      "image": "https://openshop.ua/image/cachewebp/products/8/6/7/41768-0-500x500.webp",
+      "price": 700,
+      "memory": 256,
+      "ram": 4
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13 Pro",
+      "image": "https://openshop.ua/image/cachewebp/products/6/9/7/53796-0-500x500.webp",
+      "price": 950,
+      "memory": 512,
+      "ram": 6
+    },
+    {
+      "id": 4,
+      "name": "iPhone 12 Pro Max",
+      "image": "https://openshop.ua/image/cachewebp/products/2/0/8/41802-0-500x500.webp",
+      "price": 800,
+      "memory": 900,
+      "ram": 4
+    },
+    {
+      "id": 5,
+      "name": "iPhone 13 Mini",
+      "image": "https://openshop.ua/image/cachewebp/products/4/6/5/55564-0-500x500.webp",
+      "price": 850,
+      "memory": 128,
+      "ram": 4
+    }
+  ]
+}

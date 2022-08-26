@@ -1,0 +1,65 @@
+.header {
+  &__top {
+    background: #313133;
+  }
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+  }
+  &__list{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 15px 0;
+  }
+  &__link{
+    color: #fff;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 40px;
+    text-decoration: none;
+  }
+  &__end{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  &__from{
+    display: flex;
+    align-items: center;
+  }
+  &__input{
+    width: 620px;
+    height: 50px;
+    border: 1px solid #313133;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+    color: #313133;
+    &::placeholder{
+      font-size: 18px;
+      color: #313133;
+      opacity: 0.6;
+    }
+  }
+  &__button{
+    background: #313133;
+    border: none;
+    height: 50px;
+    font-size: 18px;
+    color: #fff;
+    font-weight: bold;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  &__image{
+    width: 200px;
+    height: 65px;
+    object-fit: cover;
+    cursor: pointer;
+  }
+}
